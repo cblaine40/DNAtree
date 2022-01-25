@@ -1,0 +1,15 @@
+insert ACGT
+insert   GGTT
+
+
+insert AAA
+
+     insert AA
+     
+     print
+     
+     print lengths
+     
+     insert TATA
+     
+     print stats

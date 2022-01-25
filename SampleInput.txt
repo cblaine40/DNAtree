@@ -1,0 +1,15 @@
+       insert ACGT      
+
+        
+ insert            AAAA   
+ insert AA
+
+insert                 AAACCCCGGTGAAAACGTA
+
+
+ search         AAAA$
+                         search     AA
+ search      ACGT$
+    
+
+  
